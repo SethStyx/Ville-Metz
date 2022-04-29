@@ -1,0 +1,47 @@
+h1  {
+
+    font-family: Arial, Helvetica, sans-serif;
+    height: 250 px;
+    text-align: center;
+    padding: 20px 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h2  {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 200 px;
+    text-align: center;
+    padding: 20px 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+p   {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100 px;
+    text-align: center;
+    padding: 20px 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+} 
+body   {background-color: rgb(223, 219, 213);
+
+
+}
+
+img    {opacity: 0.75;
+
+
+}
+
+.button      {background-color: black;
+    border: 2px ;
+
+
+}
+
+
+

@@ -1,0 +1,46 @@
+body {
+    background-color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+    margin: 50px;
+    font-size: 28pt ;
+    color: goldenrod ;
+    font-family: 'Poller One', cursive;
+}
+
+h3 {
+    text-align: left;
+    margin: 25px;
+    font-size: 20pt;
+    color: darkgoldenrod;
+    font-family: 'Poller One', cursive;
+}
+
+p {
+    text-align: justify;
+    padding: 5px;
+    margin: 25px;
+    font-size: 15pt;
+    line-height: 150%;
+    text-indent: 40px;
+}
+
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+img {
+max-width : 100%;
+height : auto;
+}
+
+a {
+    text-decoration: none;
+    color: darkgoldenrod;
+
+}
